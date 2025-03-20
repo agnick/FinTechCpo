@@ -1,0 +1,27 @@
+{
+  "Accounts": [
+    {
+      "Id": "fce77b43-772c-4260-8d9a-01a359b63bbf",
+      "Name": "new main",
+      "Balance": 2000
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "2ecf6e6d-40ce-47cd-be07-e580be24e8fd",
+      "Type": 0,
+      "Name": "salary"
+    }
+  ],
+  "Operations": [
+    {
+      "Id": "b9129c1c-7acd-4875-844a-368f6becec65",
+      "Type": 0,
+      "BankAccountId": "fce77b43-772c-4260-8d9a-01a359b63bbf",
+      "Amount": 1000,
+      "Date": "2024-04-12T04:04:33",
+      "Description": "",
+      "CategoryId": "2ecf6e6d-40ce-47cd-be07-e580be24e8fd"
+    }
+  ]
+}

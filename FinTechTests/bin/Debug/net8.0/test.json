@@ -1,0 +1,11 @@
+{
+  "Accounts": [
+    {
+      "Id": "f7fd71e8-b372-47e9-b94c-25eb1b4dc92a",
+      "Name": "Test Account",
+      "Balance": 100
+    }
+  ],
+  "Categories": [],
+  "Operations": []
+}

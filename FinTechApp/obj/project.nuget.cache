@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xz2bukCqQpE=",
+  "success": true,
+  "projectFilePath": "/Users/nikmac/RiderProjects/FinTech/FinTechApp/FinTechApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikmac/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/nikmac/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/nikmac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/nikmac/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

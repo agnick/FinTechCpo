@@ -1,0 +1,46 @@
+{
+  "Accounts": [
+    {
+      "Id": "71d58415-37ae-4f49-8f31-e2b2b2933ae3",
+      "Name": "\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u0441\u0447\u0435\u0442",
+      "Balance": 1300
+    },
+    {
+      "Id": "9a80d107-df5f-448e-88b3-f93131a0fa10",
+      "Name": "\u0421\u0431\u0435\u0440\u0435\u0433\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u0441\u0447\u0435\u0442",
+      "Balance": 500
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "47c70cda-d802-4acf-94e3-7db7171f8fbc",
+      "Type": 0,
+      "Name": "\u0417\u0430\u0440\u043F\u043B\u0430\u0442\u0430"
+    },
+    {
+      "Id": "abf5ecb3-6fc2-401a-961d-72ca98874031",
+      "Type": 1,
+      "Name": "\u041F\u0440\u043E\u0434\u0443\u043A\u0442\u044B"
+    }
+  ],
+  "Operations": [
+    {
+      "Id": "f23b4b99-7328-4d4b-a92e-b335f001f3a2",
+      "Type": 0,
+      "BankAccountId": "71d58415-37ae-4f49-8f31-e2b2b2933ae3",
+      "Amount": 500,
+      "Date": "2025-03-20T22:18:21.353326+03:00",
+      "Description": "\u0417\u0430\u0440\u043F\u043B\u0430\u0442\u0430 \u0437\u0430 \u043C\u0430\u0440\u0442",
+      "CategoryId": "47c70cda-d802-4acf-94e3-7db7171f8fbc"
+    },
+    {
+      "Id": "31ef43e9-db2d-4935-b275-b73bc5230834",
+      "Type": 1,
+      "BankAccountId": "71d58415-37ae-4f49-8f31-e2b2b2933ae3",
+      "Amount": 200,
+      "Date": "2025-03-20T22:18:21.37914+03:00",
+      "Description": "\u041F\u043E\u043A\u0443\u043F\u043A\u0430 \u043F\u0440\u043E\u0434\u0443\u043A\u0442\u043E\u0432",
+      "CategoryId": "abf5ecb3-6fc2-401a-961d-72ca98874031"
+    }
+  ]
+}

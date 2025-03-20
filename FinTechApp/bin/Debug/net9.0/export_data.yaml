@@ -1,0 +1,29 @@
+Accounts:
+- Id: 71d58415-37ae-4f49-8f31-e2b2b2933ae3
+  Name: Основной счет
+  Balance: 1300
+- Id: 9a80d107-df5f-448e-88b3-f93131a0fa10
+  Name: Сберегательный счет
+  Balance: 500
+Categories:
+- Id: 47c70cda-d802-4acf-94e3-7db7171f8fbc
+  Type: Income
+  Name: Зарплата
+- Id: abf5ecb3-6fc2-401a-961d-72ca98874031
+  Type: Expense
+  Name: Продукты
+Operations:
+- Id: f23b4b99-7328-4d4b-a92e-b335f001f3a2
+  Type: Income
+  BankAccountId: 71d58415-37ae-4f49-8f31-e2b2b2933ae3
+  Amount: 500
+  Date: 2025-03-20T22:18:21.3533260+03:00
+  Description: Зарплата за март
+  CategoryId: 47c70cda-d802-4acf-94e3-7db7171f8fbc
+- Id: 31ef43e9-db2d-4935-b275-b73bc5230834
+  Type: Expense
+  BankAccountId: 71d58415-37ae-4f49-8f31-e2b2b2933ae3
+  Amount: 200
+  Date: 2025-03-20T22:18:21.3791400+03:00
+  Description: Покупка продуктов
+  CategoryId: abf5ecb3-6fc2-401a-961d-72ca98874031
